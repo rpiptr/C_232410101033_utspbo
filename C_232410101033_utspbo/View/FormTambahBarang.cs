@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace C_232410101033_utspbo.View
 {
-    public partial class FormTambahBarang : Formwww
+    public partial class FormTambahBarang : Form
     {
         public FormTambahBarang()
         {
